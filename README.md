@@ -2,6 +2,9 @@
 
 A complete multi-page e-commerce frontend website built with HTML, CSS, and JavaScript (no frameworks).
 
+🚀 **Live Demo:** [✨ Ruby Store Website ✨](https://USERNAME.github.io/ruby-store/)  
+
+
 ## Pages
 
 1. **Home** (`index.html`) - Welcome page with hero banner, featured products, and categories
@@ -53,13 +56,6 @@ ruby-store/
     └── logo/
 ```
 
-## How to Use
-
-1. Clone or download the repository
-2. Open `index.html` in your browser to view the website
-3. Navigate through the pages using the menu
-4. Add products to cart and wishlist
-5. Proceed through the checkout process
 
 ## Technologies Used
 
@@ -78,5 +74,6 @@ The website works on all modern browsers including:
 - Edge
 
 ## License
+
 
 This project is open source and available under the MIT License.
