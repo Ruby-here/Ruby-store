@@ -18,28 +18,11 @@ This project is designed as a **demo site** to showcase professional frontend sk
 - 💳 **Checkout Page** – Shipping form & order summary  
 - ❤️ **Wishlist Page** – Save products for later  
 - ℹ️ **About Page** – Store mission & highlights  
-- 📞 **Contact Page** – Contact form, address & social links  
-
----
-
-## 🖼️ Screenshots
-
-### 🏠 Home Page  
-![Home Page](images/screenshot-home.png)
-
-### 🛍️ Shop Page  
-![Shop Page](images/screenshot-shop.png)
-
-### ℹ️ About Page  
-![About Page](images/screenshot-about.png)
-
-### 🛒 Cart Page  
-![Cart Page](images/screenshot-cart.png)
-
-
+- 📞 **Contact Page** – Contact form, address & social links
 
 
 ---
+
 
 ## 🛠️ Technologies Used
 - **HTML5** – Structure  
@@ -77,4 +60,5 @@ It is **not connected to any backend** – cart & wishlist work with JavaScript 
 
 ## 👨‍💻 Author
 Developed by [**Ruby-here**](https://github.com/ruby-here) ✨
+
 
