@@ -1,80 +1,80 @@
-# Ruby Store - E-Commerce Website
+# 💎 Ruby Store
 
-A complete multi-page e-commerce frontend website built with HTML, CSS, and JavaScript (no frameworks).
+A **multi-page E-Commerce frontend website** built with **HTML, CSS, and JavaScript**.  
+This project is designed as a **demo site** to showcase professional frontend skills.
 
-🚀 **Live Demo:** [✨ Ruby Store Website ✨](https://ruby-here.github.io/Ruby-store/)  
+---
+
+## 🚀 Live Demo
+👉 [View Ruby Store Online](https://ruby-here.github.io/Ruby-store/)
+
+---
+
+## ✨ Features
+- 🏠 **Home Page** – Hero banner, featured products, categories  
+- 🛍️ **Shop Page** – Product grid, search, filters, pagination  
+- 📄 **Product Detail Page** – Product info, reviews, add to cart/wishlist  
+- 🛒 **Cart Page** – Add/remove products, update quantities, calculate totals  
+- 💳 **Checkout Page** – Shipping form & order summary  
+- ❤️ **Wishlist Page** – Save products for later  
+- ℹ️ **About Page** – Store mission & highlights  
+- 📞 **Contact Page** – Contact form, address & social links  
+
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page  
+![Home Page](images/screenshot-home.png)
+
+### 🛍️ Shop Page  
+![Shop Page](images/screenshot-shop.png)
+
+### ℹ️ About Page  
+![About Page](images/screenshot-about.png)
+
+### 🛒 Cart Page  
+![Cart Page](images/screenshot-cart.png)
 
 
-## Pages
 
-1. **Home** (`index.html`) - Welcome page with hero banner, featured products, and categories
-2. **Shop** (`shop.html`) - Product listing with search, filters, and pagination
-3. **Product Detail** (`product.html`) - Detailed product view with image gallery and reviews
-4. **Cart** (`cart.html`) - Shopping cart with quantity adjustment and order summary
-5. **Checkout** (`checkout.html`) - Shipping information form and order review
-6. **Wishlist** (`wishlist.html`) - Saved products with option to move to cart
-7. **About** (`about.html`) - Company information and mission statement
-8. **Contact** (`contact.html`) - Contact form and store information
 
-## Features
+---
 
-- Responsive design using CSS Flexbox and Grid
-- Mobile-friendly navigation with hamburger menu
-- Product search and filtering
-- Shopping cart functionality with localStorage persistence
-- Wishlist functionality
-- Product reviews system
-- Toast notifications for user feedback
-- Loading spinner for async operations
-- Responsive layout for all device sizes
+## 🛠️ Technologies Used
+- **HTML5** – Structure  
+- **CSS3 (Flexbox + Grid)** – Styling & Responsive design  
+- **JavaScript (ES6)** – Interactivity (cart, wishlist, forms)  
+- **Font Awesome** – Icons  
+- **Google Fonts (Poppins)** – Typography  
 
-## Folder Structure
+---
 
-```
+## 📂 Project Structure
+
 ruby-store/
 ├── index.html
-├── shop.html
-├── product.html
-├── cart.html
-├── checkout.html
-├── wishlist.html
 ├── about.html
+├── shop.html
 ├── contact.html
+├── cart.html
+├── wishlist.html
+├── checkout.html
 ├── css/
-│   └── styles.css
+│ └── styles.css
 ├── js/
-│   ├── app.js
-│   ├── shop.js
-│   ├── product.js
-│   ├── cart.js
-│   ├── checkout.js
-│   ├── wishlist.js
-│   └── contact.js
+│ └── app.js
 └── images/
-    ├── products/
-    ├── banners/
-    └── logo/
-```
 
 
-## Technologies Used
+---
 
-- HTML5
-- CSS3 (Flexbox & Grid)
-- JavaScript (ES6+)
-- Google Fonts
-- Font Awesome Icons
+## 📌 About
+**Ruby Store** is a demo **frontend-only e-commerce website** created for portfolio purposes and websites.  
+It is **not connected to any backend** – cart & wishlist work with JavaScript only.
 
-## Browser Support
+---
 
-The website works on all modern browsers including:
-- Chrome
-- Firefox
-- Safari
-- Edge
-
-## License
-
-
-This project is open source and available under the MIT License.
+## 👨‍💻 Author
+Developed by [**Ruby-here**](https://github.com/ruby-here) ✨
 
