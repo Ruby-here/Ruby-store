@@ -2,7 +2,7 @@
 
 A complete multi-page e-commerce frontend website built with HTML, CSS, and JavaScript (no frameworks).
 
-🚀 **Live Demo:** [✨ Ruby Store Website ✨](https://USERNAME.github.io/ruby-store/)  
+🚀 **Live Demo:** [✨ Ruby Store Website ✨](https://ruby-here.github.io/Ruby-store/)  
 
 
 ## Pages
@@ -77,3 +77,4 @@ The website works on all modern browsers including:
 
 
 This project is open source and available under the MIT License.
+
