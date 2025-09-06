@@ -1,0 +1,5 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#e0e0e0"/>
+  <circle cx="150" cy="150" r="80" fill="#e74c3c"/>
+  <text x="150" y="155" font-family="Arial" font-size="20" fill="white" text-anchor="middle">Ruby Ring</text>
+</svg>

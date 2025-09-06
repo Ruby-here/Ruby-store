@@ -1,0 +1,5 @@
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" fill="#e74c3c"/>
+  <text x="600" y="250" font-family="Arial" font-size="60" fill="white" text-anchor="middle">Welcome to Ruby Store</text>
+  <text x="600" y="350" font-family="Arial" font-size="30" fill="white" text-anchor="middle">Discover the finest collection of jewelry</text>
+</svg>
